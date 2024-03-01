@@ -32,9 +32,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [newton_portfolio] <a name="about-project"></a>
+# 📖 Newton Portfolio <a name="about-project"></a>
 
-**newton_portfolio** is a HTML CSS and JavaScript portfolio website showcasing Newton's work and skills in Software Engineering. This is a responsive portfolio website.
+**Newton Portfolio** is a HTML CSS and JavaScript portfolio website showcasing Newton's work and skills in Software Engineering. This is a responsive portfolio website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -64,8 +64,6 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Responsiveness**
 - **Functionality**
